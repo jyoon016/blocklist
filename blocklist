@@ -1,2 +1,17 @@
 ! 2020-11-04 https://www.wsj.com
 www.wsj.com##.styles--margin-bottom--1qLtxtgQ.WSJTheme--margin-bottom--2-lor3Ur.styles--padding-bottom--DQ6elYpe.WSJTheme--padding-bottom--1CfMQoRd > .WSJTheme--adWrapper--6E2JufAO
+
+! 2020-10-19 https://www.bloomberg.com
+www.bloomberg.com##.navi-push-notification-prompt
+www.bloomberg.com##.fence-rendered.fadeinAnimation__37b4335c.newsletterModal__8056e2c2
+www.bloomberg.com##html:style(overflow: auto !important;)
+www.bloomberg.com##.zipr-recirc__container
+www.bloomberg.com##.open-zipr.zipr-recirc__under-navi--desktop.zipr-recirc
+www.bloomberg.com##.fence-rendered.yellow__a52dfc47.banner__10d4e47e
+www.bloomberg.com##.fence-rendered.banner__10d4e47e
+
+! 2020-10-19 https://www.ft.com
+www.ft.com##.o-message--try-full-access.o-message--action.o-message
+
+! 2020-10-19 https://www.bloomberg.com
+www.bloomberg.com##.fence-rendered.banner__3f713468
