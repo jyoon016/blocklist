@@ -15,3 +15,9 @@ www.ft.com##.o-message--try-full-access.o-message--action.o-message
 
 ! 2020-10-19 https://www.bloomberg.com
 www.bloomberg.com##.fence-rendered.banner__3f713468
+
+washingtonpost.com^*/pwapi-$script
+washingtonpost.com/subscribe/paywall/
+washingtonpost.com/subscribe/pw/
+washingtonpost.com/wp-stat/pb/prod/pmbl.txt
+washingtonpost.com/subscribe/logging/
